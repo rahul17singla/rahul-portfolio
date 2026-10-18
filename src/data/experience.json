@@ -1,0 +1,116 @@
+[
+  {
+    "company": "Amazon",
+    "location": "Bengaluru, India",
+    "roles": [
+      {
+        "title": "Software Development Engineer I",
+        "type": "Full-time",
+        "start": "Jan 2026",
+        "end": "Present",
+        "bullets": [
+          {
+            "title": "Offer Ranking Plugin",
+            "text": "Built a pre-ranking plugin within the offer-ranking system, serving 1B+ requests daily, that calls an index API to detect items co-shippable with a customer's cart and augments the offer with an incentive amount; targeted a 2–3% unit-share uplift and multi-million-dollar annual shipping-cost savings across 8 international marketplaces."
+          },
+          {
+            "title": "Horizontal Multi Offer Display",
+            "text": "End-to-end implementation of the \"Pair and Save\" feature swatch for the Multi Offer Display in the Amazon Shopping Experience on mobile and desktop, live in 4 worldwide marketplaces."
+          },
+          {
+            "title": "Infrastructure Teardown",
+            "text": "Verified zero production traffic across metrics and logs over a 2+ week window, then tore down the deprecated region end-to-end (CDK stacks, load-balancer relay configs, certificates, pipeline stages), eliminating a full regional fleet and its recurring operational cost."
+          },
+          {
+            "title": "Data Reconciliation",
+            "text": "Shipped a reconciliation Lambda and a reusable Java library comparing source and destination records for data-replication workflows, with CloudWatch metrics tracking success rate, processed and failure counts."
+          },
+          {
+            "title": "AI On-Call Analyzer",
+            "text": "Built an AI-native on-call analyzer that ingests tickets, logs and runbooks to auto-generate triage summaries and root-cause suggestions, cutting mean time to diagnose by 20% and easing on-call load."
+          },
+          {
+            "title": "Steady-State Validation",
+            "text": "Designed and implemented a CloudWatch-based steady-state validator for data-replication workflows, orchestrating composite alarm checks and metric-threshold validations via AWS Step Functions."
+          }
+        ],
+        "tech": ["Java", "AWS CDK", "AWS Lambda", "Step Functions", "CloudWatch", "DynamoDB", "Typescript"]
+      }
+    ]
+  },
+  {
+    "company": "Kickdrum Technologies",
+    "location": "Bengaluru, India",
+    "roles": [
+      {
+        "title": "Software Engineer",
+        "type": "Full-time",
+        "start": "Jul 2024",
+        "end": "Nov 2025",
+        "bullets": [
+          {
+            "title": "Performance Assessment Tool",
+            "text": "Engineered the Feedback module using React and AWS Lambda, enabling performance tracking for 200+ employees."
+          },
+          {
+            "title": "PAT Migration",
+            "text": "Migrated the performance-assessment platform from an always-on to a fully serverless AWS architecture, cutting infrastructure cost by 90% while holding scalability through peak review cycles."
+          },
+          {
+            "title": "Workflow Optimization",
+            "text": "Restructured and optimized a ColdFusion-based recursive workflow, reducing message delivery time from 120+ minutes to under 35 minutes (70% improvement)."
+          },
+          {
+            "title": "Mentorship",
+            "text": "Mentored 2 SDE interns, providing design guidance and code reviews that helped them ship their internship project on schedule."
+          }
+        ],
+        "tech": ["React", "AWS Lambda", "Serverless", "Node.js"]
+      },
+      {
+        "title": "Software Developer Intern",
+        "type": "Internship",
+        "start": "Jan 2024",
+        "end": "Jun 2024",
+        "bullets": [
+          {
+            "title": "Observability",
+            "text": "Improved application observability by creating 5+ Datadog dashboards for backend APIs and complete GCP performance monitoring."
+          },
+          {
+            "title": "Test Automation",
+            "text": "Developed a Cypress-based automated framework for validating content, delivery triggers and backend API responses, reducing manual QA cycles and ensuring reliable communication for 50,000+ students."
+          },
+          {
+            "title": "Internet Booking Engine",
+            "text": "Collaborated with a team of developers to build and deploy a scalable Internet Booking Engine using React.js, Spring Boot and AWS services."
+          }
+        ],
+        "tech": ["React.js", "Spring Boot", "AWS", "Datadog", "GCP", "Cypress"]
+      }
+    ]
+  },
+  {
+    "company": "RM Applications",
+    "location": "Remote",
+    "roles": [
+      {
+        "title": "Software Developer Intern",
+        "type": "Internship",
+        "start": "Jun 2023",
+        "end": "Sep 2023",
+        "bullets": [
+          {
+            "title": "Membership Platform",
+            "text": "Developed the Email Blasting and File Upload & Preview modules for the membership platform, improving operational efficiency by 30%."
+          },
+          {
+            "title": "Search Functionality",
+            "text": "Designed a popup menu with search, reducing search time by 45% for users navigating the membership system."
+          }
+        ],
+        "tech": ["JavaScript", "REST APIs"]
+      }
+    ]
+  }
+]

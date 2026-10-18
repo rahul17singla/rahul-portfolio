@@ -1,0 +1,38 @@
+[
+  {
+    "institution": "UIET, Panjab University",
+    "degree": "Bachelor of Engineering",
+    "field": "Computer Science and Engineering",
+    "location": "Chandigarh, India",
+    "start": "Nov 2020",
+    "end": "Jun 2024",
+    "grade": "CGPA 8.15 / 10",
+    "highlights": [
+      "Rank 1 out of 230+ students in the PUMEET examination, 2021"
+    ]
+  },
+  {
+    "institution": "St. Soldier School",
+    "degree": "Class XII",
+    "field": "Non-Medical",
+    "location": "Mohali, PB, India",
+    "start": "Mar 2019",
+    "end": "May 2020",
+    "grade": "Percentage 90%",
+    "highlights": [
+      "Scored the highest marks in Physics and Mathematics in class 12th"
+    ]
+  },
+  {
+    "institution": "St. Soldier School",
+    "degree": "Class XII",
+    "field": "Non-Medical",
+    "location": "Mohali, PB, India",
+    "start": "Mar 2019",
+    "end": "May 2020",
+    "grade": "Percentage 90%",
+    "highlights": [
+      "Awarded the merit trophy for achieving the highest grade."
+    ]
+  }
+]

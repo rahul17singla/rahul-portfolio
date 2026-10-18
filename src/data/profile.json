@@ -1,0 +1,55 @@
+{
+  "name": "Rahul Singla",
+  "firstName": "Rahul",
+  "lastName": "Singla",
+  "title": "Software Development Engineer I",
+  "company": "Amazon",
+  "tagline": "I build and operate backend systems that serve a billion requests a day — and I care as much about how they run as how they ship.",
+  "location": "Bengaluru, India",
+  "email": "rahulsingla1710@gmail.com",
+  "phone": "+91-8194949581",
+  "resumeUrl": "/Rahul_Singla_Resume.pdf",
+  "status": {
+    "text": "Open to SDE II opportunities",
+    "show": true
+  },
+  "social": [
+    {
+      "label": "Email",
+      "icon": "mail",
+      "url": "mailto:rahulsingla1710@gmail.com"
+    },
+    {
+      "label": "LinkedIn",
+      "icon": "linkedin",
+      "url": "https://www.linkedin.com/in/rahul-1710-singla"
+    },
+    {
+      "label": "GitHub",
+      "icon": "github",
+      "url": "https://github.com/rahul17singla"
+    }
+  ],
+  "highlights": [
+    {
+      "value": "1B+",
+      "label": "requests / day served by systems I've shipped"
+    },
+    {
+      "value": "90%",
+      "label": "infrastructure cost cut via serverless migration"
+    },
+    {
+      "value": "Top 4.4%",
+      "label": "on LeetCode (Knight, rating 1897)"
+    },
+    {
+      "value": "2+ yrs",
+      "label": "building production systems at Amazon & Kickdrum"
+    }
+  ],
+  "contact": {
+    "heading": "Let's build something.",
+    "text": "I'm happy to talk about backend systems, AWS, on-call tooling, or SDE II roles. Email is the fastest way to reach me."
+  }
+}

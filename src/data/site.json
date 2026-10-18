@@ -1,0 +1,66 @@
+{
+  "title": "Rahul Singla · Software Development Engineer",
+  "description": "Rahul Singla — Software Development Engineer at Amazon building backend systems in Java, Spring Boot and AWS that serve 1B+ requests a day.",
+  "theme": {
+    "accent": "#6366f1",
+    "defaultMode": "system"
+  },
+  "sections": [
+    {
+      "id": "about",
+      "label": "About",
+      "eyebrow": "Who I am",
+      "description": "Backend engineer focused on systems that are fast, observable and cheap to run.",
+      "enabled": true
+    },
+    {
+      "id": "experience",
+      "label": "Experience",
+      "eyebrow": "Where I've worked",
+      "description": "Two years of shipping production systems, from a serverless migration to a billion-request-a-day ranking plugin.",
+      "enabled": true
+    },
+    {
+      "id": "work",
+      "label": "Selected Work",
+      "eyebrow": "Case studies",
+      "description": "A closer look at the problems I owned end to end — the context, what I built, and what changed.",
+      "enabled": true
+    },
+    {
+      "id": "skills",
+      "label": "Skills",
+      "eyebrow": "Toolbox",
+      "description": "Languages, frameworks and infrastructure I use in production.",
+      "enabled": true
+    },
+    {
+      "id": "education",
+      "label": "Education",
+      "eyebrow": "Background",
+      "enabled": true
+    },
+    {
+      "id": "coding",
+      "label": "Coding Profiles",
+      "eyebrow": "Competitive programming",
+      "description": "I keep my algorithmic problem-solving sharp outside of work.",
+      "enabled": true
+    },
+    {
+      "id": "achievements",
+      "label": "Achievements",
+      "eyebrow": "Recognition",
+      "enabled": true
+    },
+    {
+      "id": "contact",
+      "label": "Contact",
+      "eyebrow": "Get in touch",
+      "enabled": true
+    }
+  ],
+  "footer": {
+    "text": "Built with React, TypeScript, Tailwind CSS and Framer Motion."
+  }
+}

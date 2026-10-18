@@ -1,0 +1,42 @@
+[
+  {
+    "name": "\"Pair and Save\" co-shippability ranking plugin",
+    "organization": "Amazon",
+    "period": "2026",
+    "context": "Amazon's offer-ranking system decides which offers customers see and serves 1B+ requests a day across international marketplaces. Shipping two items together is cheaper than shipping them apart, but nothing in ranking knew about it.",
+    "contribution": "Built a pre-ranking plugin that calls an index API to detect items co-shippable with the customer's cart and augments the offer with an incentive amount, then delivered the \"Pair and Save\" swatch end to end in the Horizontal Multi Offer Display on mobile and desktop.",
+    "impact": "Targeted a 2–3% unit-share uplift and multi-million-dollar annual shipping-cost savings across 8 marketplaces; the customer-facing experience is live in 4.",
+    "tech": ["Java", "Low-latency services", "AWS"],
+    "links": []
+  },
+  {
+    "name": "AI-native on-call analyzer",
+    "organization": "Amazon",
+    "period": "2026",
+    "context": "During an incident, on-call engineers spend most of their time hand-correlating tickets, logs and runbooks before they can even start fixing anything.",
+    "contribution": "Built an analyzer that ingests tickets, logs and runbooks and auto-generates a triage summary with root-cause suggestions for the on-call engineer.",
+    "impact": "Cut mean time to diagnose by 20% and reduced the cognitive load of being on call.",
+    "tech": ["Generative AI", "AWS", "Log analysis"],
+    "links": []
+  },
+  {
+    "name": "Data-replication reconciliation & steady-state validation",
+    "organization": "Amazon",
+    "period": "2026",
+    "context": "Data-replication workflows need proof that destination records match the source, and that the system is healthy, without someone eyeballing dashboards.",
+    "contribution": "Shipped a reconciliation Lambda and a reusable Java library that compare source and destination records and emit CloudWatch metrics (success rate, processed, failures). Designed a CloudWatch-based steady-state validator that orchestrates composite-alarm checks and metric-threshold validations through AWS Step Functions.",
+    "impact": "Replication correctness and system health are now verified automatically and continuously, with metrics instead of manual checks.",
+    "tech": ["Java", "AWS Lambda", "Step Functions", "CloudWatch"],
+    "links": []
+  },
+  {
+    "name": "Serverless migration of the Performance Assessment Tool",
+    "organization": "Kickdrum Technologies",
+    "period": "2024 – 2025",
+    "context": "An internal performance-assessment platform for 200+ employees ran on always-on infrastructure that was idle most of the year and busy only during review cycles.",
+    "contribution": "Engineered the Feedback module with React and AWS Lambda, then migrated the whole platform to a fully serverless AWS architecture.",
+    "impact": "90% lower infrastructure cost while comfortably absorbing peak review-cycle traffic.",
+    "tech": ["React", "AWS Lambda", "Serverless"],
+    "links": []
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "platform": "LeetCode",
+    "icon": "leetcode",
+    "handle": "",
+    "stats": [
+      { "label": "Contest rating", "value": "1897" },
+      { "label": "Badge", "value": "Knight" },
+      { "label": "Percentile", "value": "Top 4.4%" }
+    ]
+  },
+  {
+    "platform": "Codeforces",
+    "icon": "codeforces",
+    "handle": "",
+    "stats": [
+      { "label": "Rating", "value": "1524" },
+      { "label": "Rank", "value": "Specialist" }
+    ]
+  },
+  {
+    "platform": "GitHub",
+    "icon": "github-brand",
+    "handle": "rahul17singla",
+    "url": "https://github.com/rahul17singla",
+    "stats": [],
+    "note": "Side projects, experiments and the source of this site."
+  }
+]

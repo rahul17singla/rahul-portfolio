@@ -1,0 +1,14 @@
+{
+  "paragraphs": [
+    "I'm a Software Development Engineer at Amazon with 2+ years of experience building backend systems in Java, Spring Boot and AWS. I work on offer ranking in Amazon's shopping experience, where I shipped a pre-ranking plugin that serves 1B+ requests a day across 8 international marketplaces.",
+    "Before Amazon, I migrated Kickdrum's performance-assessment platform from always-on servers to a fully serverless AWS architecture — cutting infrastructure cost by 90% — and restructured a recursive workflow to bring message delivery time down from 120+ minutes to under 35.",
+    "I like owning the unglamorous parts of a system: I've built CloudWatch-driven steady-state validators, a reconciliation library for data replication, decommissioned a full regional fleet, and built an AI-powered on-call analyzer that cut mean time to diagnose by 20%."
+  ],
+  "focus": [
+    "Distributed backend systems",
+    "AWS serverless & infrastructure as code",
+    "Observability & on-call tooling",
+    "Performance & cost optimisation",
+    "Mentoring"
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Languages",
+    "icon": "code",
+    "skills": ["Java", "C++", "TypeScript", "JavaScript", "SQL"]
+  },
+  {
+    "name": "Backend & Frameworks",
+    "icon": "layers",
+    "skills": ["Spring Boot", "Node.js", "Express.js", "REST APIs", "React.js"]
+  },
+  {
+    "name": "AWS & Cloud",
+    "icon": "cloud",
+    "skills": ["AWS Lambda", "Step Functions", "CloudWatch", "S3", "AWS CDK", "GCP"]
+  },
+  {
+    "name": "Databases",
+    "icon": "database",
+    "skills": ["PostgreSQL", "MySQL", "MongoDB", "Amazon DynamoDB", "Amazon RDS"]
+  },
+  {
+    "name": "Tools & Practices",
+    "icon": "wrench",
+    "skills": ["Git", "Datadog", "Cypress", "Observability", "Serverless architecture"]
+  },
+  {
+    "name": "Fundamentals",
+    "icon": "book",
+    "skills": ["Data Structures & Algorithms", "Object-Oriented Design", "Database Management", "Distributed Systems"]
+  }
+]
