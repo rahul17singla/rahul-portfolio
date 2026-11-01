@@ -61,6 +61,6 @@
     }
   ],
   "footer": {
-    "text": "Built with React, TypeScript, Tailwind CSS and Framer Motion."
+    "text": "Built with TypeScript."
   }
 }
