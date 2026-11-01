@@ -27,6 +27,6 @@
   {
     "name": "Fundamentals",
     "icon": "book",
-    "skills": ["Data Structures & Algorithms", "Object-Oriented Design", "Database Management", "Distributed Systems"]
+    "skills": ["Data Structures & Algorithms", "Object-Oriented Design", "Database Management", "Distributed Systems", "System Design"]
   }
 ]
